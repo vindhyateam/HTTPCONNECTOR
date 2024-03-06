@@ -595,7 +595,7 @@
 									xmlns:c="http://schemas.cordys.com/cws/1.0"
 									xmlns:SOAP="http://schemas.xmlsoap.org/soap/envelope/"
 									type="HTTP">
-									<connection-id>OPENDATA-EDUCATION</connection-id>
+									<connection-id>REQUEST</connection-id>
 									<http-method>GET</http-method>
 									<uri>/{0}</uri>
 									<request-handler
