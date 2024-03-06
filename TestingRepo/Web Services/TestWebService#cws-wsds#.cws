@@ -439,7 +439,7 @@
 			RuntimeDocumentID="F8E4E394-4167-A1EE-B6DE-1AB84320482C">
 			<DocumentID>F8E4E394-4167-A1EE-B6DE-1AB84320082C</DocumentID>
 			<Name>ITestWebService</Name>
-			<Description>ITestWebService</Description>
+			<Description>ITestWebService:cn=OpenText HTTP Connector,cn=soap nodes,o=system,cn=cordys,cn=defaultInst,o=opentext.net</Description>
 			<CreatedBy>sysadmin</CreatedBy>
 			<CreationDate>2024-03-06T05:14:43.835</CreationDate>
 			<Notes/>
